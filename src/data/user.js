@@ -24,7 +24,7 @@ const INFO = {
 	about: {
 		title: "I’m Tejaswini Sai Avisana.",
 		description:
-			"Master's in Computer Science from University of North Texas ; Activities include: PHI KAPPA PHI MEMBER, GSC VICE PRESIDENT; Graduated with 3.8 CGPA               Bachelor degree from GVPCEW with 3.5 CGPA; Activites include Women in Technology (WIT), Hackathon Participant, CSI, NSS",
+			"I have done my Master's in Computer Science from the University of North Texas, where I graduated with a 3.8 CGPA. During my time there, I was an active member of PHI KAPPA PHI and served as the Vice President of the Graduate Student Council (GSC). I also hold a Bachelor's degree from GVPCEW with a 3.5 CGPA. Throughout my academic journey, I have been involved in various activities such as Women in Technology (WIT), participated in Hackathons, and contributed to organizations like CSI and NSS.",
 	},
 
 
@@ -32,19 +32,19 @@ const INFO = {
 		{
 			title: "Project 1",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
+				"A simple yet efficient task management web application built using React. It allows users to create, read, update, and delete (CRUD) tasks, ensuring better productivity and task organization. The app focuses on user-friendly design and seamless interactivity.",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://tejuavisana.github.io/todo-list/",
 		},
 
 		{
 			title: "Project 2",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
+				"A full-stack web application demonstrating CRUD (Create, Read, Update, Delete) operations using React for the front-end and Spring Boot for the back-end. This project is designed to manage entities such as users, tasks, or products, showcasing seamless interaction between the client and server.",
+			logo: "https://cdn-icons-png.flaticon.com/512/1183/1183672.png",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://github.com/tejuavisana/fullstack-backend",
 		},
 	],
 };
